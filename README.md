@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Yedzinho32
+- 👋 Hi, I’m Edson Sambo
 - 👀 I’m interested in web development, android development, 
 - 🌱 I’m currently learning Javascript, and PHP
 - 💞️ I’m looking to collaborate on ...
