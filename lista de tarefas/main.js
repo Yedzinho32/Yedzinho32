@@ -15,7 +15,7 @@ function mostraTarefas() {
         const elementoLink = document.createElement('a')
         const pos = tarefas.indexOf(tarefa)
 
-        const linkText = document.createTextNode('X')
+        const linkText = document.createTextNode('Apagar')
         elementoLink.appendChild(linkText)
         
         
